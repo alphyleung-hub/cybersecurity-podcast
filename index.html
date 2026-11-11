@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Cybersecurity 日報</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f4f4f9; color: #333; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin-bottom: 20px; }
+        audio { width: 100%; margin-top: 10px; }
+        button { background: #3498db; color: white; border: none; padding: 12px 20px; border-radius: 8px; cursor: pointer; font-size: 16px; margin-top: 10px; }
+        button:hover { background: #2980b9; }
+        .script { white-space: pre-wrap; line-height: 1.8; background: #f9f9f9; padding: 15px; border-radius: 8px; max-height: 400px; overflow-y: auto; }
+    </style>
+</head>
+<body>
+    <h1>🎙️ IT Cybersecurity 日報</h1>
+    
+    <div class="card">
+        <h2>🎧 收聽今日節目</h2>
+        <p>如果你已經上傳咗 MP3 檔案，請撳下面嘅播放鍵：</p>
+        <audio controls>
+            <!-- This will look for the MP3 file in your GitHub repo -->
+            <source src="IT_Cybersecurity_Daily_Report.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        
+        <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+        
+        <p>或者，你可以用瀏覽器內置嘅語音功能即時朗讀腳本：</p>
+        <button onclick="readAloud()">🔊 即時朗讀腳本 (Browser TTS)</button>
+        <button onclick="stopReading()" style="background: #e74c3c;">⏹️ 停止朗讀</button>
+    </div>
+
+    <div class="card">
+        <h2>📜 節目腳本</h2>
+        <div class="script" id="scriptText">
+大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026 年 11 月 11 號，星期三。我哋今集為大家總結咗 3 條 IT cybersecurity 界嘅重要新聞...
+(此處可以貼上你完整的腳本內容)
+        </div>
+    </div>
+
+    <script>
+        let utterance;
+        function readAloud() {
+            stopReading();
+            const text = document.getElementById('scriptText').innerText;
+            utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'zh-HK'; // Cantonese/Traditional Chinese
+            utterance.rate = 1.0;
+            speechSynthesis.speak(utterance);
+        }
+        function stopReading() {
+            speechSynthesis.cancel();
+        }
+    </script>
+</body>
+</html>
