@@ -1,0 +1,68 @@
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026 年 11 月 11 號，星期三。我哋今集為大家總結咗 3 條 IT cybersecurity 界嘅重要新聞，全部都係昨日 11 月 10 號發生嘅大小事。今日嘅內容真係有啲震撼，由我哋每日用緊嘅瀏覽器，到大企業嘅後台系統，再到最近好興嘅 AI 公司，全部都成為黑客嘅目標。無論你係 IT 新手、在職人士，定係想追新聞但冇時間睇文章嘅普通人，今集都啱晒你。準備好未？我哋即刻開始啦！
+[阿明][male][curious and easy-going]:
+早晨，阿希！聽你咁講，今日嘅新聞好似同我哋日常生活好有關係喎。我已經準備好筆記簿，等我哋即刻進入第一條新聞啦。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+無錯，第一條新聞，同我哋每日用緊嘅瀏覽器息息相關。Google 喺 11 月 10 號發佈咗緊急安全更新，修復咗 Chrome 瀏覽器入面嘅九個安全漏洞。其中最嚴重嘅，係一個編號為 CVE-2026-125350 嘅「零日漏洞」（Zero-Day Vulnerability），而且情報顯示，黑客已經開始積極利用呢個漏洞進行真實世界嘅攻擊。
+[阿明][male][curious and easy-going]:
+等等，阿希，「零日漏洞」？呢個名聽落去好似係啲好可怕嘅電影情節。究竟咩係「零日」？係咪指黑客有零日時間去攻擊，定係指零風險？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+哈哈，唔係咁解嘅，阿明。「零日」其實係指軟件開發商（例如 Google）喺發現呢個漏洞嘅「第零日」，即係佢哋仲未有任何準備、未有任何修補程式（Patch）嘅時候，黑客就已經知道並開始利用呢個漏洞去攻擊用戶。就好似你屋企道門嘅鎖壞咗，但你仲未發現，賊人已經拎住條鎖匙入嚟偷嘢咁。開發商嘅反應時間係零，所以叫「零日」。
+[阿明][male][curious and easy-going]:
+嘩，咁即係話，我哋用緊 Chrome 嘅時候，可能已經俾人入咗屋都唔知？咁今次呢個漏洞具體會造成咩後果？會唔會令我啲銀行密碼自動飛走？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+你嘅擔憂好合理。今次呢個漏洞屬於「Use-After-Free」（釋放後使用）嘅高嚴重性漏洞。簡單嚟講，就係程式已經將某段記憶體「釋放」咗，話俾系統知唔再用，但係程式碼仲錯誤咁去存取嗰段記憶體。黑客就可以利用呢個邏輯錯誤，注入惡意程式碼，甚至完全控制你部電腦。如果佢哋成功，確實可以監控你嘅鍵盤輸入，包括密碼。
+[阿明][male][curious and easy-going]:
+咁即係如果我睇緊一個被黑客動過手腳嘅網頁，我部電腦就可能中招？咁 Google 點處理？我哋普通人可以點做？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+無錯，你講中咗核心！只要用戶訪問咗特製嘅惡意網頁，就可能中招，甚至唔需要點擊任何嘢。不過好消息係，Google 已經喺 11 月 10 號推出咗安全更新。所以，最重要嘅行動就係：即刻打開你嘅 Chrome 瀏覽器，右上角撳三個點，揀「說明」，再揀「關於 Google Chrome」，佢就會自動檢查並更新至最新版本。如果你用緊手機，都可以去 App Store 或 Google Play 檢查更新。如果你見到版本號係最新，就代表你已經安全咗。
+[阿明][male][curious and easy-going]:
+原來係咁！操作聽落唔難。咁即係話，更新軟件唔係淨係為咗有新功能或者新介面，而係真係可以保命，係第一道防線。我陣間收工就即刻 update 我部電腦同埋手機。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+絕對係！記住，軟件更新往往就係最平、最有效嘅防毒軟件。呢件事帶出嘅訊息好簡單：面對零日漏洞，速度就係生命，千祈唔好忽略嗰個「稍後更新」或者「明日提醒我」嘅按鈕。
+[阿明][male][curious and easy-going]:
+收到！咁我哋睇下第二條新聞，聽講同啲好大間嘅公司有關？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+無錯，講完個人電腦，我哋嚟睇下企業級嘅新聞。德國軟件巨頭 SAP 喺 11 月 10 號緊急修復咗四個安全漏洞。令人震驚嘅係，呢四個漏洞嘅 CVSS 評分全部係滿分 10.0 分！其中兩個更允許「遠程代碼執行」（Remote Code Execution, 簡稱 RCE）。
+[阿明][male][curious and easy-going]:
+CVSS 10.0 分？滿分？聽落去好似考試攞滿分咁，但係喺 cybersecurity 界，攞滿分係咪即係代表「無得救」或者「極度危險」？同埋，SAP 係做咩㗎？我淨係聽過佢哋啲系統好貴，同我哋普通人有咩關係？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+你個比喻幾得意！喺 cybersecurity 界，CVSS（通用漏洞評分系統）10.0 分確實代表「極度危險」，意思係攻擊者可以毫無難度、無需任何權限，就能夠完全控制受影響嘅系統。至於 SAP，佢哋主要提供企業資源規劃（ERP）系統。全球好多大型企業，包括銀行、醫院、甚至政府，都用 SAP 來管理財務、人力資源同客戶數據。你網購嘅時候，背後處理庫存同發票嘅，好可能就係 SAP 系統。
+[阿明][male][curious and easy-going]:
+嘩，咁即係話，如果呢啲滿分漏洞被黑客利用，佢哋就可以直接入到啲大企業嘅核心系統？咁頭先提到嘅「遠程代碼執行」又係咩意思？聽落去好似科幻電影。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+無錯，就係咁可怕。「遠程代碼執行」即係黑客可以喺世界任何角落，透過網絡向目標系統發送指令，並強迫該系統執行這些指令。就好似你隔住個螢幕，用萬能遙控器控制緊隔離屋嘅電視機咁，完全唔需要親身去到現場，亦都唔需要知道入面嘅密碼或者突破防火牆。
+[阿明][male][curious and easy-going]:
+咁即係黑客可以喺屋企歎緊咖啡，就將一間銀行嘅財務系統搞到冧檔，或者修改啲數據？咁 SAP 點算？有冇人已經中招？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+目前 SAP 表示，佢哋尚未發現呢啲漏洞被大規模積極利用嘅證據，但佢哋已經強烈呼籲所有客戶立即安裝修補程式。因為對於企業嚟講，呢啲滿分漏洞就係計時炸彈，遲早會爆。企業 IT 部門而家應該正喺度通宵達旦咁進行緊急維修，以防供應鏈攻擊（Supply Chain Attack）。供應鏈攻擊即係黑客唔直接攻擊防禦森嚴嘅大銀行，而係攻擊佢哋用緊嘅軟件供應商，從而間接打入大企業內部。
+[阿明][male][curious and easy-going]:
+原來企業後台嘅安全，其實同我哋普通人息息相關。如果銀行系統俾人控制，我哋嘅存款數據都可能唔保，甚至啲醫療記錄都會洩露。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+完全正確。呢單新聞帶出嘅重點係：企業級軟件嘅安全性，直接關係到我哋每個人嘅私隱同財產安全。下次你聽到某間大公司「系統升級維護，暫停服務」，佢哋可能正係喺度拆緊呢啲滿分計時炸彈，我哋應該俾多啲耐性佢哋。
+[阿明][male][curious and easy-going]:
+真係長知識。咁最後一條新聞呢？聽講同 AI 有關，而家咩都同 AI 拉上關係。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+最後一條新聞，確實同最近好興嘅人工智能（AI）有關。AI 基礎設施公司 Fireworks AI 喺 11 月 10 號確認，佢哋遭受咗一次更廣泛嘅數據外洩（Data Breach）。黑客不僅僅係偷咗一啲基本資料，仲訪問咗客戶嘅計費數據、秘密金鑰（Secrets）、數據集（Datasets），甚至係未完成嘅模型權重（Model Weights）。
+[阿明][male][curious and easy-going]:
+AI 公司都被黑客盯上？不過阿希，你頭先提到嘅「模型權重」同「數據集」，聽落去好專業。對於我哋呢啲唔係搞 AI 開發嘅普通人嚟講，呢啲嘢被偷咗，有咩實際影響？會唔會令我啲 AI 聊天機器人突然變壞？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+好問題！我哋用日常生活嚟比喻。想像下，「數據集」就係一本極度機密嘅食譜，入面有晒你屋企世代相傳嘅煮餸秘方同所有食材清單；而「模型權重」就係廚師經過幾十年練習，先至掌握到嘅火候同手勢，即係 AI 嘅「腦」。如果呢兩樣嘢俾人偷走，黑客就可以完全複製出一個同你一模一樣嘅 AI 模型，甚至用你嘅數據去訓練一個惡意嘅 AI。
+[阿明][male][curious and easy-going]:
+嘩，即係話，佢哋偷嘅唔係淨係幾組密碼或者信用卡號碼，而係間公司最核心嘅「腦」同「記憶」？咁如果呢啲 AI 模型係用嚟處理敏感資料，例如醫療記錄或者私人對話，咪即係全部曝光？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+你領悟得好快！無錯，Fireworks AI 嘅客戶包括好多開發者同企業，如果佢哋嘅數據集包含敏感資訊，外洩後果不堪設想。而且，黑客拿到「秘密金鑰」（即係類似 API 金鑰嘅通行證，就好似你屋企嘅後備鎖匙），就可以冒充呢啲企業去進行進一步嘅網絡攻擊，造成連鎖反應，例如用你個名義去發送釣魚電郵，騙你身邊嘅朋友。
+[阿明][male][curious and easy-going]:
+咁即係話，AI 發展得越快，佢哋收集嘅數據越多，一旦出事，破壞力就越大？咁我哋平時用啲 AI 寫作或者繪圖工具嘅時候，應該點樣保護自己？
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+係咁嘅。對於普通人嚟講，最重要嘅原則係：培養良好嘅「數據衛生」習慣。唔好將高度敏感嘅個人資料、公司機密或未公開嘅創作，輸入到任何你唔完全信任嘅 AI 平台入面。因為一旦平台被攻破，你嘅數據就會成為黑客嘅戰利品，甚至被用來訓練未來嘅模型，令你防不勝防。記住，免費嘅 AI 工具，有時你嘅數據就係佢哋嘅產品。
+[阿明][male][curious and easy-going]:
+明白晒。原來用 AI 都要有戒心，唔能夠乜都餵俾佢，當佢係樹窿咁傾計。真係學到嘢，以後我都會小心篩選先好輸入資料，保護好自己嘅私隱。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+絕對係。呢單新聞帶比我哋嘅啟示係：AI 嘅強大伴隨住巨大嘅安全風險。喺享受 AI 帶來便利嘅同時，我哋必須時刻警惕，守護好自己嘅數字資產，唔好成為數據外洩嘅無辜受害者。
+[阿明][male][curious and easy-going]:
+聽完今日嘅三條新聞，真係覺得 cybersecurity 無處不在。由瀏覽器更新，到企業系統防護，再到 AI 數據安全，每一步都唔可以馬虎，真係要打起十二分精神。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+無錯，阿明總結得好好。今日嘅新聞反映出一個明顯嘅趨勢：黑客嘅攻擊面正不斷擴大，由傳統軟件漏洞，延伸到企業核心系統，再到新興嘅 AI 領域。這提醒我哋，網絡安全唔單止係 IT 部門嘅責任，而係每個數字公民嘅必修課。
+[阿希][female][warm and enthusiastic, friendly news anchor tone]:
+今日嘅新聞來源包括 The Hacker News (https://thehackernews.com/)。多謝大家收聽今集嘅《IT Cybersecurity 日報》。記住，保持警覺，及時更新，守護好自己嘅數字生活。如果你覺得今集有用，不妨分享俾身邊嘅朋友，等我哋一齊提高網絡安全意識。我哋下集再見！
