@@ -2,19 +2,19 @@
   {
     "date": "2026-11-12",
     "mp3": "2026-11-12_IT_Cybersecurity.mp3",
-    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-12。<br><br>第1條新聞：Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation。<br>詳情來源：https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html<br><br>第2條新聞：AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets。<br>詳情來源：https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html<br><br>第3條新聞：Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits。<br>詳情來源：https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
+    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-12。<br><br>第1條新聞：Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them。<br>詳情來源：https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html<br><br>第2條新聞：ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories。<br>詳情來源：https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html<br><br>第3條新聞：New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access。<br>詳情來源：https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
     "sources": [
       {
-        "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-        "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html"
+        "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+        "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html"
       },
       {
-        "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-        "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html"
+        "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+        "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html"
       },
       {
-        "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-        "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html"
+        "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+        "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html"
       }
     ]
   }

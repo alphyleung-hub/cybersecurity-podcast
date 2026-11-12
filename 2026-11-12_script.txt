@@ -1,12 +1,12 @@
 大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-12。
 
-第1條新聞：Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation。
-詳情來源：https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
+第1條新聞：Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them。
+詳情來源：https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html
 
-第2條新聞：AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets。
-詳情來源：https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+第2條新聞：ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories。
+詳情來源：https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html
 
-第3條新聞：Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits。
-詳情來源：https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
+第3條新聞：New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access。
+詳情來源：https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html
 
 多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！
