@@ -1,0 +1,21 @@
+[
+  {
+    "date": "2026-11-12",
+    "mp3": "2026-11-12_IT_Cybersecurity.mp3",
+    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-12。<br><br>第1條新聞：Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation。<br>詳情來源：https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html<br><br>第2條新聞：AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets。<br>詳情來源：https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html<br><br>第3條新聞：Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits。<br>詳情來源：https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
+    "sources": [
+      {
+        "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+        "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html"
+      },
+      {
+        "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+        "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html"
+      },
+      {
+        "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+        "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html"
+      }
+    ]
+  }
+]
