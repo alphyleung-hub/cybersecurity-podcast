@@ -17,5 +17,24 @@
         "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html"
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "mp3": "2026-11-13_IT_Cybersecurity.mp3",
+    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-13。<br><br>第1條新聞：PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE。<br>詳情來源：https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html<br><br>第2條新聞：New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs。<br>詳情來源：https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html<br><br>第3條新聞：FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls。<br>詳情來源：https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
+    "sources": [
+      {
+        "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+        "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+      },
+      {
+        "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+        "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
+      },
+      {
+        "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+        "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
+      }
+    ]
   }
 ]
