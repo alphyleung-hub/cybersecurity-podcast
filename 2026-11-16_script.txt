@@ -1,0 +1,12 @@
+大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-16。
+
+第1條新聞：Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches。
+詳情來源：https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html
+
+第2條新聞：⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days。
+詳情來源：https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html
+
+第3條新聞：Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login。
+詳情來源：https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html
+
+多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！
