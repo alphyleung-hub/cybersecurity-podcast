@@ -1,0 +1,12 @@
+大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-17。
+
+第1條新聞：Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses。
+詳情來源：https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html
+
+第2條新聞：Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges。
+詳情來源：https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html
+
+第3條新聞：Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers。
+詳情來源：https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html
+
+多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！

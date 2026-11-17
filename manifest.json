@@ -74,5 +74,24 @@
         "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html"
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "mp3": "2026-11-17_IT_Cybersecurity.mp3",
+    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-17。<br><br>第1條新聞：Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses。<br>詳情來源：https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html<br><br>第2條新聞：Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges。<br>詳情來源：https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html<br><br>第3條新聞：Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers。<br>詳情來源：https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
+    "sources": [
+      {
+        "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+        "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html"
+      },
+      {
+        "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+        "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"
+      },
+      {
+        "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+        "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html"
+      }
+    ]
   }
 ]
