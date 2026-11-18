@@ -93,5 +93,24 @@
         "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html"
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "mp3": "2026-11-18_IT_Cybersecurity.mp3",
+    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-18。<br><br>第1條新聞：10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers。<br>詳情來源：https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html<br><br>第2條新聞：F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE。<br>詳情來源：https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html<br><br>第3條新聞：Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required。<br>詳情來源：https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
+    "sources": [
+      {
+        "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+        "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+      },
+      {
+        "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+        "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+      },
+      {
+        "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+        "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+      }
+    ]
   }
 ]
