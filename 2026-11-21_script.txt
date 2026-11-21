@@ -1,0 +1,12 @@
+大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-21。
+
+第1條新聞：WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams。
+詳情來源：https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
+
+第2條新聞：Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control。
+詳情來源：https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html
+
+第3條新聞：Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts。
+詳情來源：https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html
+
+多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！
