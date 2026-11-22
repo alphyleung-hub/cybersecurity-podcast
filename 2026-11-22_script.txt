@@ -1,0 +1,12 @@
+大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-22。
+
+第1條新聞：A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats。
+詳情來源：https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
+
+第2條新聞：GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys。
+詳情來源：https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html
+
+第3條新聞：Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access。
+詳情來源：https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html
+
+多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！
