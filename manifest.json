@@ -1,24 +1,5 @@
 [
   {
-    "date": "2026-11-14",
-    "mp3": "2026-11-14_IT_Cybersecurity.mp3",
-    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-14。<br><br>第1條新聞：Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection。<br>詳情來源：https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html<br><br>第2條新聞：PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE。<br>詳情來源：https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html<br><br>第3條新聞：New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs。<br>詳情來源：https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
-    "sources": [
-      {
-        "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-        "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
-      },
-      {
-        "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-        "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
-      },
-      {
-        "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-        "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-16",
     "mp3": "2026-11-16_IT_Cybersecurity.mp3",
     "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-16。<br><br>第1條新聞：Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches。<br>詳情來源：https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html<br><br>第2條新聞：⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days。<br>詳情來源：https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html<br><br>第3條新聞：Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login。<br>詳情來源：https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
@@ -129,6 +110,25 @@
       {
         "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
         "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "mp3": "2026-11-23_IT_Cybersecurity.mp3",
+    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-23。<br><br>第1條新聞：OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms。<br>詳情來源：https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html<br><br>第2條新聞：Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps。<br>詳情來源：https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html<br><br>第3條新聞：A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats。<br>詳情來源：https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
+    "sources": [
+      {
+        "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+        "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+      },
+      {
+        "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+        "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"
+      },
+      {
+        "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+        "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"
       }
     ]
   }

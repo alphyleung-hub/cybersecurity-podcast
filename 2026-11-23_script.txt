@@ -1,0 +1,12 @@
+大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-23。
+
+第1條新聞：OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms。
+詳情來源：https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+
+第2條新聞：Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps。
+詳情來源：https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html
+
+第3條新聞：A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats。
+詳情來源：https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
+
+多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！
