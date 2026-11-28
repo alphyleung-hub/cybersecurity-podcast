@@ -1,24 +1,5 @@
 [
   {
-    "date": "2026-11-21",
-    "mp3": "2026-11-21_IT_Cybersecurity.mp3",
-    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-21。<br><br>第1條新聞：WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams。<br>詳情來源：https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html<br><br>第2條新聞：Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control。<br>詳情來源：https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html<br><br>第3條新聞：Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts。<br>詳情來源：https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
-    "sources": [
-      {
-        "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-        "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
-      },
-      {
-        "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-        "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
-      },
-      {
-        "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-        "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
-      }
-    ]
-  },
-  {
     "date": "2026-11-22",
     "mp3": "2026-11-22_IT_Cybersecurity.mp3",
     "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-22。<br><br>第1條新聞：A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats。<br>詳情來源：https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html<br><br>第2條新聞：GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys。<br>詳情來源：https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html<br><br>第3條新聞：Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access。<br>詳情來源：https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
@@ -129,6 +110,25 @@
       {
         "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
         "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "mp3": "2026-11-28_IT_Cybersecurity.mp3",
+    "script": "大家早晨！歡迎收聽《IT Cybersecurity 日報》！今日係 2026-11-28。<br><br>第1條新聞：Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign。<br>詳情來源：https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html<br><br>第2條新聞：Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control。<br>詳情來源：https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html<br><br>第3條新聞：How to Keep Your Security Picture Current When Attackers Move at AI Speed。<br>詳情來源：https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html<br><br>多謝大家收聽，記住保持警覺，保護好自己嘅數字資產。我哋明日再見！",
+    "sources": [
+      {
+        "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+        "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html"
+      },
+      {
+        "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+        "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
+      },
+      {
+        "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+        "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html"
       }
     ]
   }
